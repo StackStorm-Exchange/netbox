@@ -1,5 +1,9 @@
 # Change Log
 
+  
+## 3.0.7
+
+- include comments as a parameter   patch.ipam.ip_addresses.yaml
 ## 3.0.6
 
 - Add exceptions on action.py

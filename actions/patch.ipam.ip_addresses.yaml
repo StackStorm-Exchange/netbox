@@ -53,6 +53,10 @@ parameters:
     required: false
     type: string
     description: "DNS Name"
+  comments:
+    required: false
+    type: string
+    description: "comments"
   description:
     required: false
     type: string
@@ -60,7 +64,7 @@ parameters:
   tags:
     required: false
     type: array
-    description: "Array of tag strings"
+    description: "array"
   custom_fields:
     required: false
     type: object
